@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: d95236b78cfccaf44b4048e1f382ad16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Penguin_Attack_SpriteSheet_2
+  - first:
+      213: 21300002
+    second: Penguin_Attack_SpriteSheet_7
+  - first:
+      213: 21300004
+    second: Penguin_Attack_SpriteSheet_8
+  - first:
+      213: 21300006
+    second: Penguin_Attack_SpriteSheet_10
+  - first:
+      213: 21300008
+    second: Penguin_Attack_SpriteSheet_14
+  - first:
+      213: 21300010
+    second: Penguin_Attack_SpriteSheet_30
+  - first:
+      213: 21300012
+    second: Penguin_Attack_SpriteSheet_31
+  - first:
+      213: 21300014
+    second: Penguin_Attack_SpriteSheet_33
+  - first:
+      213: 21300016
+    second: Penguin_Attack_SpriteSheet_34
+  - first:
+      213: 21300018
+    second: Penguin_Attack_SpriteSheet_36
+  - first:
+      213: 21300020
+    second: Penguin_Attack_SpriteSheet_49
+  - first:
+      213: 21300022
+    second: Penguin_Attack_SpriteSheet_51
+  - first:
+      213: 21300024
+    second: Penguin_Attack_SpriteSheet_53
+  - first:
+      213: 21300026
+    second: Penguin_Attack_SpriteSheet_55
+  - first:
+      213: 21300028
+    second: Penguin_Attack_SpriteSheet_56
+  - first:
+      213: 21300030
+    second: Penguin_Attack_SpriteSheet_71
+  - first:
+      213: 21300032
+    second: Penguin_Attack_SpriteSheet_73
+  - first:
+      213: 21300034
+    second: Penguin_Attack_SpriteSheet_74
+  - first:
+      213: 21300036
+    second: Penguin_Attack_SpriteSheet_76
+  - first:
+      213: 21300038
+    second: Penguin_Attack_SpriteSheet_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1813
+        width: 231
+        height: 188
+      alignment: 9
+      pivot: {x: 0.23911937, y: 0.4160468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2705eb46ee64c47b99cace1600506d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1813
+        width: 104
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91f3aca5b0cbb14cb628c6efce40cc2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1804
+        width: 310
+        height: 180
+      alignment: 9
+      pivot: {x: 0.32941353, y: 0.46852282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79167a83c04afb1409be961687b7c6d9
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1814
+        width: 198
+        height: 221
+      alignment: 9
+      pivot: {x: 0.23187256, y: 0.35067266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f2fac7d50f3746bbf034c0ad148b4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1814
+        width: 152
+        height: 254
+      alignment: 9
+      pivot: {x: 0.29232547, y: 0.30793437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1278966db4ce4aaf77ba05b7d8308
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1272
+        width: 103
+        height: 275
+      alignment: 9
+      pivot: {x: 0.5557221, y: 0.28086028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ef063c23394d4cabe829a7e515ef4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1274
+        width: 147
+        height: 260
+      alignment: 9
+      pivot: {x: 0.7147387, y: 0.28477362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e49f58ea1db6d4eb8fd2d7ed50d207
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1272
+        width: 181
+        height: 228
+      alignment: 9
+      pivot: {x: 0.7695292, y: 0.3237915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a916309442e2345906d859b7b185a3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1272
+        width: 210
+        height: 184
+      alignment: 9
+      pivot: {x: 0.8074666, y: 0.40642315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512cfd3c0c16bfb45ac9c2ec4beae680
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1272
+        width: 237
+        height: 149
+      alignment: 9
+      pivot: {x: 0.81501764, y: 0.51122147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae6782e14f6da4ba859ef789558655
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 733
+        width: 244
+        height: 146
+      alignment: 9
+      pivot: {x: 0.8469498, y: 0.4901725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ec80559bc4a92459ec4f9976d35dbf
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 698
+        width: 232
+        height: 180
+      alignment: 9
+      pivot: {x: 0.82778776, y: 0.54782814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263fb1eb7575824c9e39fb15efed9cc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 663
+        width: 201
+        height: 212
+      alignment: 9
+      pivot: {x: 0.79268026, y: 0.64213073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4f21526b5db840b5a3682156d577e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 635
+        width: 156
+        height: 239
+      alignment: 9
+      pivot: {x: 0.78513044, y: 0.668099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c50fdb68521da4c88db329f52a1366
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 611
+        width: 109
+        height: 260
+      alignment: 9
+      pivot: {x: 0.6734944, y: 0.72107565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f929c6c9240648bc51c05179f245a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 67
+        width: 96
+        height: 266
+      alignment: 9
+      pivot: {x: 0.47189808, y: 0.7332652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f71f558f371864dafc78c931d9528c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 84
+        width: 140
+        height: 252
+      alignment: 9
+      pivot: {x: 0.3362069, y: 0.7087556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d73447fae68a4fb397be0bdba6085
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 119
+        width: 172
+        height: 218
+      alignment: 9
+      pivot: {x: 0.3039416, y: 0.6732508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d87beee9a6fc42952e606246f69cc
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 168
+        width: 212
+        height: 170
+      alignment: 9
+      pivot: {x: 0.27094427, y: 0.5634762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ccafa7da54724084da8336c241103
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Penguin_Attack_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 192
+        width: 233
+        height: 148
+      alignment: 9
+      pivot: {x: 0.25685376, y: 0.50911427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7f154376f0e14f8dff7ad2a5be8e8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cec84dd721b64314f9345563d7769ba7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
